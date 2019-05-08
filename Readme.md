@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Анна Калинина](https://up.htmlacademy.ru/htmlcss/25/user/981391).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Власов](https://htmlacademy.ru/profile/amaringo).
 
 ---
 
